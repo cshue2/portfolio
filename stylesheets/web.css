@@ -1034,7 +1034,7 @@ z-index:2;
 
 .arrow{
   position: absolute;
-height: auto;
+  height: auto;
   left:5%;
   top:5%;
   width:50px;
@@ -1294,7 +1294,12 @@ color: white;
   height:125px;
 }
 
-
+.left-box{
+  display:none;
+}
+.left-box-about{
+  display:none;
+}
 
 
 }
