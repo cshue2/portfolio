@@ -31,6 +31,10 @@ body {
 .top-box{
 
 }
+
+.arrow{
+  display:none;
+}
 .case-btn{
   display:none;
 }
