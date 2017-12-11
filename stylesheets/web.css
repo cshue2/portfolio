@@ -9,6 +9,7 @@ body {
 
 }
 
+
 #dribbble{
   position:absolute;
   max-width:20px;
@@ -208,6 +209,10 @@ margin-bottom:3%;
   top:88%;
   left:82%;
   background-color: #0A0A19;
+  border-style: solid;
+  border-color: #24B3E7;
+  border-radius: 3px;
+  border-width:1px;
   border-radius: 3px;
 
   position:fixed;
